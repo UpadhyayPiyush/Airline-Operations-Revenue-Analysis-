@@ -54,14 +54,17 @@
 
 ![Visual 1](https://github.com/UpadhyayPiyush/Airline-Operations-Revenue-Analysis-/blob/main/Graphs/Visual%201.png)  
 **Passenger Show vs No-Show Distribution**  
+
 The chart indicates that only 55.43% of booked passengers actually boarded, while 44.57% did not travel despite having reservations. This reveals a very high passenger no-show behavior, meaning nearly half of the reserved seats flew empty. The insight suggests inaccurate demand prediction and highlights the need for strategies such as reminder notifications or controlled overbooking to improve seat utilization.  
 
 ![Visual 2](https://github.com/UpadhyayPiyush/Airline-Operations-Revenue-Analysis-/blob/main/Graphs/Visual%202.png)  
 **Revenue Impact of Passenger No-Shows**  
+
 The airline realized only 55.55% of its expected operational revenue, while approximately 44.45% of potential revenue was operationally lost due to passenger no-shows. Even though tickets were sold, empty seats reduced effective revenue generation and distorted capacity planning. This finding strongly supports implementing predictive overbooking and better passenger confirmation systems to minimize revenue leakage and improve profitability.  
 
 ![Visual 3](https://github.com/UpadhyayPiyush/Airline-Operations-Revenue-Analysis-/blob/main/Graphs/Visual%203.png)  
 **✈️ Load Factor Distribution Across Flights**  
+
 This histogram shows how full the airline’s flights are in terms of seat occupancy. A large concentration of flights appears at the lower load factor range, meaning many flights are operating with a small percentage of seats filled, while comparatively fewer flights reach high occupancy levels near 70–100%. Overall, the graph indicates that most flights are not fully utilized and a significant portion of seat capacity remains empty across the network.  
 
 
