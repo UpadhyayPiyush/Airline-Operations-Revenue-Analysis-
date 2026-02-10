@@ -35,7 +35,7 @@
 - seats → aircraft seat configuration
 - aircrafts_data → aircraft models
 - airports_data → departure and arrival airports
-- bookings → booking transactions
+- bookings → booking transactions  
 **The database models the real passenger journey:**  
 **Booking → Ticket → Flight → Boarding → Aircraft → Airport**
 
