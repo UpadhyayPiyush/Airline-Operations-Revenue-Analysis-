@@ -26,7 +26,7 @@
 - Provide data-driven recommendations for route planning and capacity optimization
 
 ## Database Overview 
-**SQLite Airline Operational Database**
+**SQLite Airline Operational Database**  
 **8 relational tables representing the airline lifecycle:**
 - flights → flight schedules and aircraft assignments (33K+ flights)
 - ticket_flights → ticket pricing and flight allocation (1.04M+ records)
