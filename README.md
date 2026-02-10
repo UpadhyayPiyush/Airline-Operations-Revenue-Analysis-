@@ -37,7 +37,20 @@
 - airports_data → departure and arrival airports
 - bookings → booking transactions
 **The database models the real passenger journey:**
-**Booking → Ticket → Flight → Boarding → Aircraft → Airport**
+    **Booking → Ticket → Flight → Boarding → Aircraft → Airport**
+
+## Tools & Technologies 
+- Data Analysis Stack
+- SQL (SQLite) — querying relational database
+- Python
+  - pandas → data processing
+  - numpy → numerical operations
+  - matplotlib → visualizations
+  - seaborn → statistical plots
+- Jupyter Notebook — analysis workflow
+- Data Visualization — business insights reporting
+
+
 
 
 
